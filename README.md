@@ -1,6 +1,6 @@
-# Viu Avanzado 
+# Viu Avanzado ![logo vuejs](./0001/public/favicon.ico)
 
-## Experimentos con VueJS ![logo vuejs](./0001/public/favicon.ico) 🧪📗
+## Experimentos con VueJS 🧪📗👨🏻‍💻
 
 | Experimento | Descripción |
 |-------------|-------------|
