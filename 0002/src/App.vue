@@ -15,22 +15,22 @@ export default{
 </script>
 
 <template>
-  <h2>Ejercicio 1.</h2>
+  <h2>EJERCICIO 1.</h2>
   <div>
     <MountedApi/>
   </div>
   <hr>
-  <h2>Ejercicio 2.</h2>
+  <h2>EJERCICIO 2.</h2>
   <div>
     <APIGithub/>
   </div>
   <hr>
-  <h2>Ejercicio 3.</h2>
+  <h2>EJERCICIO 3.</h2>
   <div>
     <ComputedPropertyUser/>
   </div>
   <hr>
-  <h2>Ejercicio 4.</h2>
+  <h2>EJERCICIO 4.</h2>
   <div>
     <Pokemon/>
   </div>

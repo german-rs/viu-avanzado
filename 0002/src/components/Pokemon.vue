@@ -29,7 +29,7 @@ export default {
 </script>
 
 <template>
-  <div id="App">
+  <div class="contenedor">
      <div v-if="datosDelPokemon">
       <h2>{{ datosDelPokemon.name }} {{ datosDelPokemon.id }}</h2>
       <img :src="datosDelPokemon.picture" alt="Imagen del Pokémon" />
@@ -38,9 +38,12 @@ export default {
 </template>
 
 <style scoped>
-#App {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 10px;
+.contenedor{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 </style>
