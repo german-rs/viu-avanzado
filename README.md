@@ -8,3 +8,4 @@
 | [Experimento 0002](https://github.com/german-rs/viu-avanzado/tree/main/0002) | Se llama a distintas API utilizando mounted y computed |
 | [Experimento 0003](https://github.com/german-rs/viu-avanzado/tree/main/0003) | Implementación de un buscador que llama a una API y muestra los resultados en pantalla  |
 | [Experimento 0004](https://github.com/german-rs/viu-avanzado/tree/main/0004) | Uso de Vuex para variables de estado |
+| [Experimento 0005](https://github.com/german-rs/viu-avanzado/tree/main/0005) | Uso de Vuex para variables de estado y creación de un bd con JS. |
