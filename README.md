@@ -10,3 +10,4 @@
 | [Experimento 0004](https://github.com/german-rs/viu-avanzado/tree/main/0004) | Uso de Vuex para variables de estado |
 | [Experimento 0005](https://github.com/german-rs/viu-avanzado/tree/main/0005) | Uso de Vuex para variables de estado y creación de un bd con JS. |
 | [Experimento 0006](https://github.com/german-rs/viu-avanzado/tree/main/0006) | Uso de Vuex, Vue Router, store y db para una aplicación sencilla de tareas. |
+| [Experimento 0007](https://github.com/german-rs/viu-avanzado/tree/main/0007) | Uso de Vuex y Axios para la conexión con una API |
