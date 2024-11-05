@@ -1,0 +1,34 @@
+@import './base.css';
+
+h1,
+h3{
+    font-family: 'Press Start 2P', sans-serif;
+}
+
+body{
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: #fef3c7;
+    color: #111827;
+}
+
+.contenedor{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+button{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fca5a5;
+    transition: all .5s ease;
+    font-weight: 700;
+    font-size: 1em;
+    color: #4b5563;
+}
+button:hover{
+    background-color: #f87171;
+}
