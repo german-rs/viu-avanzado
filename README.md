@@ -13,3 +13,4 @@
 | [Experimento 0007](https://github.com/german-rs/viu-avanzado/tree/main/0007) | Uso de Vuex y Axios para la conexión con una API |
 | [Experimento 0008](https://github.com/german-rs/viu-avanzado/tree/main/0008) | Uso de Vuex y Payload, se utiliza además ...mapState(['']), commit, dispatch para el incremento y disminución de un contador que va de 10 en 10 |
 | [Experimento 0009](https://github.com/german-rs/viu-avanzado/tree/main/0009) | Uso de Vuex y Axios para modificar el inventario de una tienda de vídeo juegos llamada **32 Bits**|
+| [Experimento 0010](https://github.com/german-rs/viu-avanzado/tree/main/0010) | Uso de VueJS y firestore|
