@@ -2,6 +2,3 @@
 
 Solo agregar datos a firestore.
 
-
-
-

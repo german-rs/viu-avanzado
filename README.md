@@ -15,3 +15,4 @@
 | [Experimento 0009](https://github.com/german-rs/viu-avanzado/tree/main/0009) | Uso de Vuex y Axios para modificar el inventario de una tienda de vídeo juegos llamada **32 Bits**|
 | [Experimento 0010](https://github.com/german-rs/viu-avanzado/tree/main/0010) | Uso de VueJS y firestore|
 | [Experimento 0011](https://github.com/german-rs/viu-avanzado/tree/main/0011) | CRUD con VueJS y firestore|
+| [Experimento 0012](https://github.com/german-rs/viu-avanzado/tree/main/0012) | Se agregan datos a firestore con VueJS|
