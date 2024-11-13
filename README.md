@@ -17,4 +17,4 @@
 | [Experimento 0011](https://github.com/german-rs/viu-avanzado/tree/main/0011) | CRUD con VueJS y firestore|
 | [Experimento 0012](https://github.com/german-rs/viu-avanzado/tree/main/0012) | Se agregan datos a firestore con VueJS|
 | [Experimento 0013](https://github.com/german-rs/viu-avanzado/tree/main/0013) | Desafío Vuex con firestore|
-| [Experimento 0014](https://github.com/german-rs/viu-avanzado/tree/main/0014) | Vue Router con firestore|
+| [Experimento 0014](https://github.com/german-rs/viu-avanzado/tree/main/0014) | Vue Router y autenticación de firebase|
