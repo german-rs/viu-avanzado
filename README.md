@@ -20,4 +20,4 @@
 | [Experimento 0014](https://github.com/german-rs/viu-avanzado/tree/main/0014) | Vue Router y autenticación de firebase!|
 | [Experimento 0015](https://github.com/german-rs/viu-avanzado/tree/main/0015) | Portafolio Vue Router (incompleto)|
 | [Experimento 0016](https://github.com/german-rs/viu-avanzado/tree/main/0016) | Test unitario con Jest|
-| [Experimento 0017](https://github.com/german-rs/viu-avanzado/tree/main/0017) | Ejercicos de Test unitarios con Jest|
+| [Experimento 0017](https://github.com/german-rs/viu-avanzado/tree/main/0017) | Ejercicios básicos de Test unitarios con Jest|
