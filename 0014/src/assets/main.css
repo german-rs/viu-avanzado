@@ -1,35 +1,60 @@
 @import './base.css';
 
-#app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  font-weight: normal;
+.form{
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3em;
+  max-width: 500px;
+  padding: 1em;
 }
 
-a,
-.green {
-  text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
-  transition: 0.4s;
-  padding: 3px;
+.signup__title, .login__title{
+  font-weight: 700;
+  font-size: 2.3rem;
+  text-align: center;
+  margin-top: 2em;
 }
 
-@media (hover: hover) {
-  a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
-  }
+button{
+  padding: 1em;
+  border: 3px solid #33332d;
+  color: #33332d;
+  font-weight: 600;
+  font-size: 18px;
+  box-shadow: -3px 5px #33332d;
+  transition: all .7s ease;
 }
 
-@media (min-width: 1024px) {
-  body {
-    display: flex;
-    place-items: center;
-  }
+button:hover{
+  background-color: #33332d;
+  color: #fff;
+}
 
-  #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
-  }
+.input_container {
+  padding: 1em;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+input{
+  width: 100%;
+  height: 40px;
+  border: 2px solid #33332d;
+  box-shadow: -3px 5px #33332d;
+  padding: 0.5em;
+  font-weight: 18px;
+  font-size: 18px;
+}
+
+.container{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }

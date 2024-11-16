@@ -1,27 +1,14 @@
 <script>
-import {onAuthStateChanged, auth} from '@/auth'
+import Navbar from './components/Navbar.vue';
 export default{
-  name: 'App',
-  data(){
-    return{
-      isAuthenticated: false
-    }
-  },
-  created(){
-    onAuthStateChanged(auth, (user) => {
-      this.isAuthenticated = !!user
-    })
+  components:{
+    Navbar
   }
 }
 </script>
 <template>
   <div>
-    <router-link to="/">Home</router-link>
-    <router-link to="/register">Register</router-link>
-    <router-link to="/about" v-if="isAuthenticated">About</router-link>
+    <Navbar/>
     <router-view></router-view>
   </div>
 </template>
-
-<style scoped>
-</style>
