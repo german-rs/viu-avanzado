@@ -21,3 +21,6 @@
 | [Experimento 0015](https://github.com/german-rs/viu-avanzado/tree/main/0015) | Portafolio Vue Router (incompleto)|
 | [Experimento 0016](https://github.com/german-rs/viu-avanzado/tree/main/0016) | Test unitario con Jest|
 | [Experimento 0017](https://github.com/german-rs/viu-avanzado/tree/main/0017) | Ejercicios básicos de Test unitarios con Jest|
+| [Experimento 0018](https://github.com/german-rs/viu-avanzado/tree/main/0018) | Pruebas unitarias - Objetos simulados: Mocks y Stubs|
+| [Experimento 0019](https://github.com/german-rs/viu-avanzado/tree/main/0019) | Pruebas unitarias - Snapshots|
+| [Experimento 0020](https://github.com/german-rs/viu-avanzado/tree/main/0020) | Vue Router - Vitest|
