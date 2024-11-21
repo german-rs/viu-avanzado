@@ -24,3 +24,4 @@
 | [Experimento 0018](https://github.com/german-rs/viu-avanzado/tree/main/0018) | Pruebas unitarias - Objetos simulados: Mocks y Stubs|
 | [Experimento 0019](https://github.com/german-rs/viu-avanzado/tree/main/0019) | Pruebas unitarias - Snapshots|
 | [Experimento 0020](https://github.com/german-rs/viu-avanzado/tree/main/0020) | Vue Router - Vitest|
+| [Experimento 0021](https://github.com/german-rs/viu-avanzado/tree/main/0021) | Pruebas End-to-end con Cypress|
