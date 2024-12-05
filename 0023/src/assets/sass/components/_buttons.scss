@@ -1,0 +1,16 @@
+.btn {
+    padding: 1em 2em;
+    border: 2px solid $color-gray800;
+    color: $color-gray800;
+    background-color: $color-gray200;
+    font-family: $font-family;
+    font-weight: 500;
+    font-size: 18px;
+    box-shadow: -3px 5px $color-gray800;
+    transition: all 0.7s ease;
+
+    &:hover {
+        background-color: $color-gray800;
+        color: $color-gray50;
+    }
+}

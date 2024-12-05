@@ -26,3 +26,4 @@
 | [Experimento 0020](https://github.com/german-rs/viu-avanzado/tree/main/0020) | Vue Router - Vitest|
 | [Experimento 0021](https://github.com/german-rs/viu-avanzado/tree/main/0021) | Pruebas End-to-end con Cypress|
 | [Experimento 0022](https://github.com/german-rs/viu-avanzado/tree/main/0022) | Pruebas End-to-end con Nightwatch|
+| [Experimento 0023](https://github.com/german-rs/viu-avanzado/tree/main/0023) | VueJs - Vue Router - Vuex - Sass|
