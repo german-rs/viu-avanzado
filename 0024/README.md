@@ -1,9 +1,10 @@
-# ![Logo](/public/FF.png) Proyecto: Flora y Fauna en Chile
+# Experimento 0024
 
 ## Descripción del Proyecto
 Este proyecto consiste en una aplicación web que promueve el conocimiento sobre la biodiversidad de Chile. A través de una interfaz atractiva y funcional, los usuarios pueden explorar información relevante sobre diversas especies de flora y fauna, incluyendo sus nombres, ubicación, descripciones, imágenes y estado de conservación. El desarrollo se realiza aplicando buenas prácticas de desarrollo front-end y utilizando tecnologías modernas.
 
 ## Características Principales
+
 ### Estructura del Sitio
 - Cinco páginas principales:
   - **Inicio (/):** Introducción a la biodiversidad en Chile.
