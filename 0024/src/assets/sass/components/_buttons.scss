@@ -1,0 +1,30 @@
+/**
+ * Se definen los estilos para el botón con la clase 'btn'.
+ */
+.btn {
+  /* Se establece el padding del botón. */
+  padding: 1em 2em;
+  /* Se define el borde del botón. */
+  border: 2px solid $color-gray800;
+  /* Se establece el color del texto del botón. */
+  color: $color-gray800;
+  /* Se define el color de fondo del botón. */
+  background-color: $color-gray200;
+  /* Se establece la familia de fuentes del botón. */
+  font-family: $font-family;
+  /* Se define el peso de la fuente del botón. */
+  font-weight: 500;
+  /* Se establece el tamaño de la fuente del botón. */
+  font-size: 18px;
+  /* Se define la sombra del botón. */
+  box-shadow: -3px 5px $color-gray800;
+  /* Se establece la transición para los cambios de estilo al interactuar con el botón. */
+  transition: all 0.7s ease;
+
+  &:hover {
+    /* Se cambia el color de fondo al pasar el cursor sobre el botón. */
+    background-color: $color-gray800;
+    /* Se cambia el color del texto al pasar el cursor sobre el botón. */
+    color: $color-gray50;
+  }
+}

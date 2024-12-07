@@ -1,0 +1,20 @@
+/**
+ * Se importan los archivos SCSS utilizando @import. 
+ * La forma correcta y recomendada es utilizar @use, pero por temas de tiempo 
+ * no se alcanzó a realizar el cambio debido a errores.
+ */
+
+// Importación de variables SCSS
+@import 'abstracts/variables';
+
+// Importación de estilos base
+@import 'base/typography';
+@import 'base/reset';
+
+// Importación de estilos de Layout (actualmente vacío)
+
+// Importación de estilos de componentes
+@import 'components/buttons';
+
+// Importación de utilidades SCSS
+@import 'utils/utilities';

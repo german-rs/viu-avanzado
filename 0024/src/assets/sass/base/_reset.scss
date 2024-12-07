@@ -1,0 +1,23 @@
+/**
+ * Se establece el modelo de caja para todos los elementos y pseudo-elementos antes y después.
+ * Se eliminan los márgenes y rellenos por defecto de todos los elementos.
+ * Se establece el peso de la fuente a normal.
+ */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+/**
+  * Se establece la familia de fuentes, color del texto y color de fondo para el 
+  cuerpo del documento.
+  */
+body {
+  font-family: $font-family;
+  color: $color-gray800;
+  background-color: $color-gray100;
+}
